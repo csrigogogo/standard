@@ -33,7 +33,7 @@
 ## 代码管理 - git规范
 
 
-## 中文技术文档编写规范
+## 中文技术文档编写规范 - prettier格式化文档
 
 [Vue文档编写指南](https://v3.cn.vuejs.org/guide/contributing/writing-guide.html)
 
