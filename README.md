@@ -1,5 +1,6 @@
 # standard
-作为开发的规范约束, 有了规范,碰到相同的情况可以直接采用规范写法, 专注于实现功能
+作为开发的规范约束, 有了规范, 碰到相同的情况可以直接采用规范写法, 专注于实现功能
+> 没有银弹, 不同的开发方式带来的优点和缺点都是不同的, 要学会辩证思维, 客观对待
 
 ## React开发规范
 
@@ -14,10 +15,10 @@
 ## JavaScript开发
 
 
-## Lint规范 - eslint, stylelint
+## Lint规范 - eslint, stylelint 结合 prettier
 
 
-## vscode配置
+## 基于vscode的前端开发流
 
 
 ## 包管理工具 npm yarn
@@ -32,7 +33,7 @@
 ## 代码管理 - git规范
 
 
-## 技术文档编写规范
+## 中文技术文档编写规范
 
 [Vue文档编写指南](https://v3.cn.vuejs.org/guide/contributing/writing-guide.html)
 
