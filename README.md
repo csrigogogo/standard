@@ -30,7 +30,11 @@
 ## 转译器 Babel
 
 
-## 开源PR规范
+## 开源社区规范
+
+### issue
+
+### Pull Request
 
 
 ## 代码管理 - git规范
